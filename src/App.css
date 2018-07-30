@@ -1,0 +1,29 @@
+.app {
+  text-align: center;
+}
+
+form {
+  width: 50%;
+  display: inline-block;
+}
+
+.formInnerContainer {
+  text-align: right;
+  display: inherit;
+}
+
+.errContainer {
+  height: 14px;
+  text-align: right;
+  color: orangered;
+  font-size: 14px;
+}
+
+.inputContainer {
+  display: inline-block;
+  margin: 15px 0 0;
+}
+
+button {
+  margin-top: 20px;
+}
